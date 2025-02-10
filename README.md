@@ -1,8 +1,46 @@
-About Me
+# 🌐 Subeesh - Web Developer & Web App Developer  
 
-I’m Subeesh, a versatile developer and creative professional with expertise in web and Android application development, website design, and editing. My passion lies in crafting efficient, user-centric solutions that blend technology with creativity.
+## 👋 About Me  
+Hi, I'm **Subeesh**, a passionate **Web Developer** and **Web Application Developer** with expertise in:  
+- **Front-End:** HTML, CSS, JavaScript, Bootstrap  
+- **Back-End:** (If applicable, mention languages like Node.js, PHP, or Python)  
+- **Tools & Platforms:** Google Apps Script, Firebase, GitHub  
 
-Hi, I’m a web developer who loves taking inspiration from the best and making it my own.
-I’m a "professional copycat" when it comes to web design – I find what works, put my spin on it, and make it better.
-From clean, modern layouts to smooth, responsive features, I know how to turn great ideas into functional websites that users love.
-If you're looking for someone who knows how to adapt, improve, and deliver high-quality web solutions, you're in the right place!
+I specialize in building responsive websites and dynamic web applications that enhance user experience.  
+
+---
+
+## 📂 My Portfolio  
+Check out my live projects and repositories:  
+🔗 [View Portfolio](https://github.com/Subeesh-Zero/Profile)  
+
+---
+
+## 🚀 Projects  
+### 🏆 Result Portal Dynamic  
+- A web-based result management system using **Google Apps Script**.  
+- Features an admin dashboard for easy management.  
+- [Demo & Details](https://subeesh-zero.github.io/store/)  
+
+### 📅 College Timetable Generator (In Progress)  
+- A web app for automatic timetable generation.  
+- Built with **HTML, CSS, JavaScript, Bootstrap**.  
+
+---
+
+## 🛠️ Skills  
+- HTML, CSS, JavaScript, Bootstrap  
+- Google Apps Script, Web Applications  
+- Responsive Web Design  
+- Git & GitHub for version control  
+
+---
+
+## 📫 Contact Me  
+📩 **Email:** [subeesh2702@gmail.com]  
+🔗 **LinkedIn:** https://www.linkedin.com/in/subeesh-%E2%80%8E-6aa011312]  
+🌍 **GitHub:** [github.com/Subeesh-Zero](https://github.com/Subeesh-Zero)  
+
+---
+
+### 📌 Feel free to explore my projects and contribute! 🚀  

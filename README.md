@@ -12,7 +12,7 @@ I specialize in building responsive websites and dynamic web applications that e
 
 ## 📂 My Portfolio  
 Check out my live projects and repositories:  
-🔗 [View Portfolio](https://github.com/Subeesh-Zero/Profile)  
+🔗 [View Portfolio](https://subeesh-zero.github.io/Profile/)  
 
 ---
 
